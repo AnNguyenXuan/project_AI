@@ -39,7 +39,7 @@ link github: https://github.com/Huutkang/speech-emotion-labeling.git
 ## Các bước cài đặt:
 
 ### Bước 1:
-mở một Terminal và gõ: git clone https://github.com/Huutkang/speech-emotion-recognition.git
+Tại Terminal và gõ: git clone https://github.com/AnNguyenXuan/project_AI.git
 hoặc bạn cũng có thể tải file zip và giải nén ra
 
 ### Bước 2:
@@ -62,4 +62,4 @@ có một số cách setup các thông số gây ra lỗi như: tạo một mả
 Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng để cải thiện chất lượng và tính năng của ứng dụng.
 
 ## Liên hệ
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý gì thú vị về project, vui lòng liên hệ với chúng tôi theo địa chỉ email này nguyenhuuthang011@gmail.com . Xin chân thành cảm ơn!
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý gì thú vị về project, vui lòng liên hệ với chúng tôi theo địa chỉ email này nguyenxuanan2506@gmail.com . Xin chân thành cảm ơn!
